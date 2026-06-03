@@ -40,12 +40,6 @@
         <groupId>org.springframework.cloud</groupId>
         <artifactId>spring-cloud-starter-gateway</artifactId>
     </dependency>
-	<!-- ✅ REQUIRED for test compilation -->
-<dependency>
-    <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-test</artifactId>
-    <scope>test</scope>
-</dependency>
 
     <!-- ✅ Eureka Client -->
     <dependency>
